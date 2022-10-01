@@ -13,7 +13,7 @@ function Services() {
               src='images/img-9.jpg'
               text='Health Services that Cover a Range of Prevention, Wellness, and Treatment for Common Illnesses'
               label='Primary Care'
-              path='/services'
+              path='/primary'
             />
             <CardItem
               src='images/img-2.jpg'

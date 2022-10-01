@@ -12,6 +12,8 @@ import Doctors from './components/pages/Doctors';
 import SignUp from './components/pages/SignUp';
 import Footer from './components/Footer';
 
+import Primary from './components/pages/Services/Primary';
+
 function App() {
 
   return (
@@ -23,6 +25,7 @@ function App() {
                 <Route path="/services" element={<Services />} />
                 <Route path="/doctors" element={<Doctors />} />
                 <Route path="/sign-up" element={<SignUp />} />
+                <Route path="/primary" element={<Primary />} />
             </Routes> 
             <Footer/>
         </BrowserRouter>
