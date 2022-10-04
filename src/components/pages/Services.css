@@ -5,9 +5,6 @@
     background-repeat: no-repeat;
     color: #fff;
     font-size: 100px;
-}
-
-.services {
     display: flex;
     height: 90vh;
     align-items: center;
