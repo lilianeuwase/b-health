@@ -17,7 +17,7 @@
     left: 210px;
     width: 500px;
     height: 500px;
-    top: 740px;
+    top: 650px;
     filter: grayscale(100%);
     -webkit-filter: grayscale(100%);
 }
@@ -25,7 +25,7 @@
 .text1 {
     position: absolute;
     left: 455px;
-    top: 1265px;
+    top: 1175px;
     transform: translate(-50%, -50%);
     font-size: 35px;
     color: #8E8D8A;
@@ -37,7 +37,7 @@
     right: 210px;
     width: 500px;
     height: 500px;
-    top: 783px;
+    top: 703px;
     filter: grayscale(100%);
     -webkit-filter: grayscale(100%);
 }
@@ -45,7 +45,7 @@
 .text2 {
     position: absolute;
     right: 280px;
-    top: 760px;
+    top: 670px;
     transform: translate(-50%, -50%);
     font-size: 35px;
     color: #8E8D8A;

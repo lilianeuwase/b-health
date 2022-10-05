@@ -6,6 +6,11 @@
     z-index: -1;
 } */
 
+
+/* .body {
+    padding: 100px;
+} */
+
 .body-container {
     /* background: url('../images/img-home.jpg') center center/cover no-repeat; */
     background-color: black;
@@ -24,7 +29,7 @@
     font-size: 100px;
     margin-top: -100px;
     font-family: 'Andale Mono';
-    padding: 20px;
+    padding: 0px;
 }
 
 .ttl2 {
@@ -32,7 +37,7 @@
     font-size: 100px;
     margin-top: -100px;
     font-family: 'Andale Mono';
-    padding: 20px;
+    padding: 0px;
 }
 
 .body-container>p {

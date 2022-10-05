@@ -5,6 +5,7 @@ import './Body.css';
 
 function Body() {
   return (
+    <div className= 'body'>
     <div className='body-container'>
       {/* <video src='/videos/video-1.mp4' autoPlay loop muted /> */}
       <h1 className='ttl1'>YOUR HEALTH</h1>
@@ -36,7 +37,7 @@ function Body() {
         </Button>
       </div> */}
 
-      
+      </div>
     </div>
     
 
