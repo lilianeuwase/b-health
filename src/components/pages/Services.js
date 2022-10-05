@@ -10,7 +10,7 @@ function Services() {
         <div className='cards_wrapper'>
           <ul className='cards_items'>
             <CardItem
-              src='images/img-9.jpg'
+              src='images/Primary.jpeg'
               text='Health Services that Cover a Range of Prevention, Wellness, and Treatment for Common Illnesses'
               label='Primary Care'
               path='/primary'

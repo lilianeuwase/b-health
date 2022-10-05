@@ -29,7 +29,7 @@
     transform: translate(-50%, -50%);
     font-size: 35px;
     color: #8E8D8A;
-    font-family: 'Andale Mono';
+    /* font-family: 'Andale Mono'; */
 }
 
 .photo2 {
@@ -49,7 +49,7 @@
     transform: translate(-50%, -50%);
     font-size: 35px;
     color: #8E8D8A;
-    font-family: 'Andale Mono';
+    /* font-family: 'Andale Mono'; */
 }
 
 @media screen and (max-width: 960px) {
