@@ -1,9 +1,15 @@
 .cards1 {
     padding-top: 100px;
-    background-color: #e1f4f3;
+    padding-bottom: 100px;
+    /* background-color: black; */
 }
 
-.prmry {
-    padding-top: 20px;
-    color: #e85a4f;
+.intro {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+
+.left-bar {
+    background-color: black;
 }

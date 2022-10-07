@@ -57,7 +57,7 @@ export const CardItem2 = React.memo(function GalaxyCard(props2) {
         <CardMedia
           classes={mediaStyles}
           image={
-            'https://image-us.samsung.com/SamsungUS/home/audio/galaxy-buds/MB-04-JustWhatYouWantV4.jpg?$cm-g-fb-full-bleed-img-mobile-jpg$'
+            props2.photo
           }
         />
         <Box py={3} px={2} className={styles.content}>

@@ -14,7 +14,7 @@
 .body-container {
     /* background: url('../images/img-home.jpg') center center/cover no-repeat; */
     background-color: black;
-    height: 100vh;
+    height: 120vh;
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -84,26 +84,25 @@
 }
 
 .line1 {
-    position: absolute;
-    top: 90%;
+    /* position: absolute; */
+    margin-top: 20px;
     transform: translateY(-50%);
     left: 0;
     width: 5vw;
     height: 3px;
-    background: #e85a4f;
+    background: #4ca8a1;
     border-radius: 20px;
     animation: stretch 10s linear 3s infinite alternate;
     z-index: 2;
 }
 
 .line2 {
-    position: absolute;
-    top: 90.5%;
+    /* position: absolute; */
     transform: translateY(-50%);
     right: 0;
     width: 5vw;
     height: 3px;
-    background: #4ca8a1;
+    background: #e85a4f;
     border-radius: 20px;
     animation: stretch 10s linear 3s infinite alternate;
     z-index: 2;
