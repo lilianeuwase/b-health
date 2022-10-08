@@ -1,5 +1,5 @@
 import React from 'react';
-import CardItem from '../CardItem';
+import CardItem from '../modules/CardItem';
 import './Services.css';
 
 function Services() {

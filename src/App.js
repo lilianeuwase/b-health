@@ -12,7 +12,7 @@ import Doctors from './components/pages/Doctors';
 import SignUp from './components/pages/SignUp';
 import Footer from './components/Footer';
 
-import Primary from './components/pages/Services/Primary';
+import Primary from './components/pages/services/Primary';
 
 function App() {
 
