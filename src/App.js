@@ -9,7 +9,7 @@ import {
 } from "react-router-dom";
 import Services from './components/pages/Services';
 import Doctors from './components/pages/Doctors';
-import SignUp from './components/pages/SignUp';
+// import SignUp from './components/pages/SignUp';
 import Footer from './components/Footer';
 
 import Primary from './components/pages/services/Primary';
@@ -24,7 +24,7 @@ function App() {
                 <Route path="/" element={<Home />} />
                 <Route path="/services" element={<Services />} />
                 <Route path="/doctors" element={<Doctors />} />
-                <Route path="/sign-up" element={<SignUp />} />
+                {/* <Route path="/sign-up" element={<SignUp />} /> */}
                 <Route path="/primary" element={<Primary />} />
             </Routes> 
             <Footer/>

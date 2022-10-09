@@ -66,15 +66,14 @@ function Navbar() {
 
             <li>
               <Link
-                to='/sign-up'
+                to='http://bloodloof.herokuapp.com/'
                 className='nav-links-mobile'
                 onClick={closePhoneMenu}
               >
-                Sign Up
               </Link>
             </li>
           </ul>
-          {button && <Button buttonStyle='btn--outline'>SIGN UP</Button>}
+          {button && <Button buttonStyle='btn--outline'>DONATE BLOOD</Button>}
         </div>
       </nav>
     </>
