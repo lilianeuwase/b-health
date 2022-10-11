@@ -19,7 +19,7 @@ function Services() {
               src='images/img-2.jpg'
               text='Teeth examination and treatment'
               label='Dentist'
-              path='/services'
+              path='/dentist'
             />
           </ul>
           <ul className='cards_items'>
@@ -27,19 +27,19 @@ function Services() {
               src='images/img-3.jpg'
               text='Skin, Hair, and Nails Conditions'
               label='Dermatologist'
-              path='/services'
+              path='/derma'
             />
             <CardItem
               src='images/img-4.jpg'
               text='Diagnosis, Treatment and Prevention of Mental, Emotional and Behavioral Disorders'
               label='Psychiatrist'
-              path='/doctors'
+              path='/psy'
             />
             <CardItem
               src='images/img-8.jpg'
               text='Conditions that Affect the Female Reproductive System'
               label='Gynecologist'
-              path='/sign-up'
+              path='/gyne'
             />
           </ul>
         </div>

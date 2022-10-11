@@ -6,7 +6,7 @@ import './Primary.css';
 
 function Primary() {
   return (
-    <div class="cards1">
+    <div class="card">
       <div class="tile is-ancestor">
         <div class="tile is-vertical">
           <div class="tile">

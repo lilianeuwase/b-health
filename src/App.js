@@ -9,10 +9,12 @@ import {
 } from "react-router-dom";
 import Services from './components/pages/Services';
 import Doctors from './components/pages/Doctors';
-// import SignUp from './components/pages/SignUp';
+import Dentist from './components/pages/services/Dentist';
 import Footer from './components/Footer';
-
 import Primary from './components/pages/services/Primary';
+import Derma from './components/pages/services/Derma';
+import Gyne from './components/pages/services/Gyne';
+import Psy from './components/pages/services/Psy';
 
 function App() {
 
@@ -24,8 +26,11 @@ function App() {
                 <Route path="/" element={<Home />} />
                 <Route path="/services" element={<Services />} />
                 <Route path="/doctors" element={<Doctors />} />
-                {/* <Route path="/sign-up" element={<SignUp />} /> */}
+                <Route path="/dentist" element={<Dentist />} />
                 <Route path="/primary" element={<Primary />} />
+                <Route path="/derma" element={<Derma />} />
+                <Route path="/gyne" element={<Gyne />} />
+                <Route path="/psy" element={<Psy />} />
             </Routes> 
             <Footer/>
         </BrowserRouter>
