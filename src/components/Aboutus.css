@@ -1,0 +1,14 @@
+.section {
+    background-color: white;
+}
+
+img.is-center {
+    -webkit-filter: grayscale(100%);
+    /* Safari 6.0 - 9.0 */
+    filter: grayscale(100%);
+}
+
+.h1 {
+    font-size: 13px;
+    font-weight: 700;
+}
