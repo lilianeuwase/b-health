@@ -3,7 +3,7 @@ import classNames from 'classnames';
 import { SectionTilesProps } from './modules/SectionProps';
 import SectionHeader from './modules/SectionHeader';
 import Image from './modules/Image';
-import './modules/scss/style.scss';
+// import './modules/scss/style.scss';
 
 const propTypes = {
   ...SectionTilesProps.types
