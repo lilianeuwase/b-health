@@ -1,0 +1,179 @@
+{
+    "Header": {
+        "title": "We are a Landing Page",
+        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    },
+    "About": {
+        "paragraph": "We are working together to elevate Africa's e-Health by educating Africans and offering e-Health services from some of the best doctors in Africa.",
+        "Why": [
+            "Professional",
+            "Licensed",
+            "Free services",
+            "One call away"
+        ],
+        "Why2": [
+            "Health at your comfort",
+            "Accessible",
+            "Confidential",
+            "MOH Approved"
+        ]
+    },
+    "Gallery": [{
+            "title": "Project Title",
+            "largeImage": "img/portfolio/01-large.jpg",
+            "smallImage": "img/portfolio/01-small.jpg"
+        },
+        {
+            "title": "Project Title",
+            "largeImage": "img/portfolio/02-large.jpg",
+            "smallImage": "img/portfolio/02-small.jpg"
+        },
+        {
+            "title": "Project Title",
+            "largeImage": "img/portfolio/03-large.jpg",
+            "smallImage": "img/portfolio/03-small.jpg"
+        },
+        {
+            "title": "Project Title",
+            "largeImage": "img/portfolio/04-large.jpg",
+            "smallImage": "img/portfolio/04-small.jpg"
+        },
+        {
+            "title": "Project Title",
+            "largeImage": "img/portfolio/05-large.jpg",
+            "smallImage": "img/portfolio/05-small.jpg"
+        },
+        {
+            "title": "Project Title",
+            "largeImage": "img/portfolio/06-large.jpg",
+            "smallImage": "img/portfolio/06-small.jpg"
+        },
+        {
+            "title": "Project Title",
+            "largeImage": "img/portfolio/07-large.jpg",
+            "smallImage": "img/portfolio/07-small.jpg"
+        },
+        {
+            "title": "Project Title",
+            "largeImage": "img/portfolio/08-large.jpg",
+            "smallImage": "img/portfolio/08-small.jpg"
+        },
+        {
+            "title": "Project Title",
+            "largeImage": "img/portfolio/09-large.jpg",
+            "smallImage": "img/portfolio/09-small.jpg"
+        }
+    ],
+    "Services": [{
+            "icon": "fa fa-wordpress",
+            "name": "Lorem ipsum dolor",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        },
+        {
+            "icon": "fa fa-cart-arrow-down",
+            "name": "Consectetur adipiscing",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        },
+        {
+            "icon": "fa fa-cloud-download",
+            "name": "Lorem ipsum dolor",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        },
+        {
+            "icon": "fa fa-language",
+            "name": "Consectetur adipiscing",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        },
+        {
+            "icon": "fa fa-plane",
+            "name": "Lorem ipsum dolor",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        },
+        {
+            "icon": "fa fa-pie-chart",
+            "name": "Consectetur adipiscing",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        }
+    ],
+    "Testimonials": [{
+            "img": "img/testimonials/01.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/02.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/03.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/04.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/05.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/06.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        }
+    ],
+    "Team": [{
+            "img": "../images/Head_Picture.png",
+            "name": "Liliane Uwase",
+            "job": "Software Engineer"
+        },
+        {
+            "img": "../images/Lisa.png",
+            "name": "Monalisa Musanubukeye",
+            "job": "Administration"
+        },
+        {
+            "img": "../images/Luce.jpeg",
+            "name": "Luce Mugire",
+            "job": "Finance"
+        },
+        {
+            "img": "../images/Witty.jpeg",
+            "name": "Witty Uwera",
+            "job": "Partnership Manager"
+        }
+    ],
+    "Contact": {
+        "address": "4321 California St, San Francisco, CA 12345 ",
+        "phone": "+1 123 456 1234",
+        "email": "info@company.com",
+        "facebook": "fb.com",
+        "twitter": "twitter.com",
+        "youtube": "youtube.com"
+    },
+    "How": [{
+            "icon": "fa fa-notes-medical",
+            "title": "Aceess BOH site",
+            "text": "Using your device browse to the Bank of Health website."
+        },
+        {
+            "icon": "fa fa-book",
+            "title": "Browse to services",
+            "text": "Find the appropriate service for your illness or needed advise."
+        },
+        {
+            "icon": "fa fa-address-book",
+            "title": "Contact a doctor",
+            "text": "Found the appropriate doctor contacts and contact them."
+        },
+        {
+            "icon": "fa fa-magic",
+            "title": "Consultation",
+            "text": "Wait for the scheduled time, the doctor should reach out to you."
+        }
+    ]
+}

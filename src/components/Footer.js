@@ -22,8 +22,12 @@ function Footer() {
       <div class='footer-links'>
         <div className='footer-link-wrapper'>
           <div class='footer-link-items'>
-            <Link to='#how'>How it works</Link>
-            <Link to='#aboutus'>About Us</Link>
+          <a href='#how' className='page-scroll'>
+                How It Works
+              </a>
+            <a href='#about' className='page-scroll'>
+                About
+              </a>
             <Link to='#contact'>Contact Us</Link>
             <Link to='#support'>Support</Link>
           </div>

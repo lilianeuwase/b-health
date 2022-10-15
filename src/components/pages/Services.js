@@ -1,5 +1,5 @@
 import React from 'react';
-import CardItem from '../modules/CardItem';
+import CardItem from '../modules/CardItem1';
 import './Services.css';
 
 function Services() {
@@ -10,13 +10,13 @@ function Services() {
         <div className='cards_wrapper'>
           <ul className='cards_items'>
             <CardItem
-              src='images/Primary.jpeg'
+              src={require('../../images/Primary.jpeg')}
               text='Health Services that Cover a Range of Prevention, Wellness, and Treatment for Common Illnesses'
               label='Primary Care'
               path='/primary'
             />
             <CardItem
-              src='images/img-2.jpg'
+              src={require('../../images/Dentistry.jpeg')}
               text='Teeth examination and treatment'
               label='Dentist'
               path='/dentist'
@@ -24,19 +24,19 @@ function Services() {
           </ul>
           <ul className='cards_items'>
             <CardItem
-              src='images/img-3.jpg'
+              src={require('../../images/Dermatology.webp')}
               text='Skin, Hair, and Nails Conditions'
               label='Dermatologist'
               path='/derma'
             />
             <CardItem
-              src='images/img-4.jpg'
+              src={require('../../images/Psychiatristry.jpeg')}
               text='Diagnosis, Treatment and Prevention of Mental, Emotional and Behavioral Disorders'
               label='Psychiatrist'
               path='/psy'
             />
             <CardItem
-              src='images/img-8.jpg'
+              src={require('../../images/Gynecologist.jpeg')}
               text='Conditions that Affect the Female Reproductive System'
               label='Gynecologist'
               path='/gyne'

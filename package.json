@@ -33,7 +33,8 @@
         "react-use-gesture": "^9.1.3",
         "sass-loader": "^13.1.0",
         "styled-components": "^5.3.6",
-        "web-vitals": "^2.1.4"
+        "web-vitals": "^2.1.4",
+        "Home": "."
     },
     "scripts": {
         "start": "react-scripts start",

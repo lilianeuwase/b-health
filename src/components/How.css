@@ -1,62 +1,123 @@
-.columns1 {
-    background-color: black;
+/* How Section */
+
+#how {
+    background: #0c0c0c;
+    padding: 100px 0;
 }
 
-.column2 {
-    color: white;
+#how i.fa {
+    font-size: 38px;
+    margin-bottom: 20px;
+    transition: all 0.5s;
+    color: #fff;
+    width: 100px;
+    height: 100px;
+    padding: 30px 0;
+    border-radius: 50%;
+    background: linear-gradient(to right, #98504a 0%, #e85a4f 100%);
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.05);
 }
 
-img {
-    max-width: 100%;
-    height: auto;
+h3 {
+    font-size: 22px;
+    margin: 0 0 20px;
+    color: rgb(222, 216, 216);
+    orphans: 3;
+    widows: 3;
 }
 
-.is-size-1 {
-    font-size: 3rem !important;
+#how h2 {
+    position: relative;
+    margin-bottom: 15px;
+    padding-bottom: 15px;
+    orphans: 3;
+    widows: 3;
+    page-break-after: avoid;
+    line-height: 1.1;
+    color: inherit;
+    margin-top: 20px;
+    text-transform: uppercase;
+    margin: 0 0 20px;
+    font-weight: 800;
+    font-size: 36px;
+    color: rgb(222, 216, 216);
 }
 
-.is-size-2 {
-    font-size: 2.5rem !important;
+#how p {
+    line-height: 24px;
+    margin: 30px 0;
+    color: #999;
 }
 
-.is-size-3 {
-    font-size: 2rem !important;
+.text-center {
+    text-align: center;
 }
 
-.is-size-4 {
-    font-size: 1.5rem !important;
+.col-md-10 {
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
 }
 
-.is-size-5 {
-    font-size: 1.25rem !important;
-}
-
-.is-size-6 {
-    font-size: 1rem !important;
-}
-
-.is-size-7 {
-    font-size: 0.75rem !important;
-}
-
-.hero-body {
-    -webkit-box-flex: 1;
-    -ms-flex-positive: 1;
-    flex-grow: 1;
-    -ms-flex-negative: 0;
-    flex-shrink: 0;
-    padding: 3rem 1.5rem;
-}
-
-.section {
-    padding: 3rem 1.5rem;
-}
-
-@media screen and (min-width: 1024px) {
-    .section.is-medium {
-        padding: 9rem 1.5rem;
+@media (min-width: 992px) {
+    .col-md-10 {
+        float: left;
+        width: 83.33333333%;
     }
-    .section.is-large {
-        padding: 18rem 1.5rem;
+}
+
+@media (min-width: 992px) {
+    .col-md-offset-1 {
+        margin-left: 8.33333333%;
     }
+}
+
+.section-title {
+    margin-bottom: 70px;
+}
+
+.section-title h2 {
+    position: relative;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    padding-bottom: 15px;
+}
+
+.section-title h2::after {
+    position: absolute;
+    content: "";
+    background: linear-gradient(to left, #4ca8a1 0%, #e85a4f 100%);
+    height: 4px;
+    width: 60px;
+    bottom: 0;
+    margin-left: -30px;
+    left: 50%;
+}
+
+.section-title p {
+    font-size: 18px;
+}
+
+.col-xs-6 {
+    width: 50%;
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+    float: left;
+}
+
+@media (min-width: 992px) {
+    .col-md-3 {
+        float: left;
+        width: 25%;
+    }
+}
+
+.col-md-3 {
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
 }

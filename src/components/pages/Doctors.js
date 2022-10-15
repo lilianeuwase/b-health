@@ -1,6 +1,5 @@
 import React from 'react';
 import CardItem2 from '../modules/CardItem2';
-import Leftbar from '../modules/Leftbar';
 import './Services.css'
 import '../pages/services/Primary.css'
 
