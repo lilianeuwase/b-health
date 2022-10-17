@@ -23,7 +23,7 @@ function Home() {
       <Hero />
       <How data={landingPageData.How}/>
       <About data={landingPageData.About}/>
-      {/* <Team data={landingPageData.Team} /> */}
+      <Team />
       
     </>
   );
