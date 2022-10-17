@@ -1,5 +1,7 @@
-import "./About.css";
+import "./Team.css";
 import "./How.css";
+import "./About.css";
+
 
 export const How = (props) => {
   return (
