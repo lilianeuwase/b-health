@@ -1,0 +1,107 @@
+.section {
+    background-color: #0c0c0c;
+}
+
+#team .has-text-centered,
+#team h1 {
+    color: #999;
+}
+
+#team h1 {
+    font-size: 13px;
+    font-weight: 700;
+}
+
+#team .has-text-centered p strong {
+    color: white;
+}
+
+.image.is-128x128 {
+    height: 128px;
+    width: 128px;
+}
+
+.is-inline-block {
+    display: inline-block !important;
+}
+
+@media screen and (max-width: 768px) {
+    .is-inline-block-mobile {
+        display: inline-block !important;
+    }
+}
+
+@media screen and (min-width: 769px),
+print {
+    .is-inline-block-tablet {
+        display: inline-block !important;
+    }
+}
+
+@media screen and (min-width: 769px) and (max-width: 1023px) {
+    .is-inline-block-tablet-only {
+        display: inline-block !important;
+    }
+}
+
+@media screen and (max-width: 1023px) {
+    .is-inline-block-touch {
+        display: inline-block !important;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .is-inline-block-desktop {
+        display: inline-block !important;
+    }
+}
+
+@media screen and (min-width: 1024px) and (max-width: 1215px) {
+    .is-inline-block-desktop-only {
+        display: inline-block !important;
+    }
+}
+
+@media screen and (min-width: 1216px) {
+    .is-inline-block-widescreen {
+        display: inline-block !important;
+    }
+}
+
+@media screen and (min-width: 1216px) and (max-width: 1407px) {
+    .is-inline-block-widescreen-only {
+        display: inline-block !important;
+    }
+}
+
+@media screen and (min-width: 1408px) {
+    .is-inline-block-fullhd {
+        display: inline-block !important;
+    }
+}
+
+.content figure {
+    margin-left: 2em;
+    margin-right: 2em;
+    text-align: center;
+}
+
+.content figure:not(:first-child) {
+    margin-top: 2em;
+}
+
+.content figure:not(:last-child) {
+    margin-bottom: 2em;
+}
+
+.content figure img {
+    display: inline-block;
+}
+
+.content figure figcaption {
+    font-style: italic;
+}
+
+#team figure {
+    display: block;
+}

@@ -3,6 +3,7 @@ import './Footer.css';
 import { Button } from './modules/Button';
 import { Link } from 'react-router-dom';
 
+
 function Footer() {
   return (
     <div className='footer-container'>
@@ -26,10 +27,11 @@ function Footer() {
                 How It Works
               </a>
             <a href='#about' className='page-scroll'>
-                About
+                About Us
               </a>
-            <Link to='#contact'>Contact Us</Link>
-            <Link to='#support'>Support</Link>
+              <a href='#team' className='page-scroll'>
+                Meet The Team
+              </a>
           </div>
         </div>
       </div>
@@ -43,46 +45,46 @@ function Footer() {
           </div>
           <small class='website-rights'>BOH © 2022</small>
           <div class='social-icons'>
-            <Link
+            <a
               class='social-icon-link facebook'
-              to='/'
+              href='https://www.facebook.com/docir.lilian250'
               target='_blank'
               aria-label='Facebook'
             >
               <i class='fab fa-facebook-f' />
-            </Link>
-            <Link
+              </a>
+              <a
               class='social-icon-link instagram'
-              to='/'
+              href='https://www.instagram.com/lil_wase/'
               target='_blank'
               aria-label='Instagram'
             >
               <i class='fab fa-instagram' />
-            </Link>
-            <Link
+            </a>
+            <a
               class='social-icon-link youtube'
-              to='/'
+              href='https://www.youtube.com/channel/UCrfDW3QBP0SX5YSejqlcplA'
               target='_blank'
               aria-label='Youtube'
             >
               <i class='fab fa-youtube' />
-            </Link>
-            <Link
+            </a>
+            <a
               class='social-icon-link twitter'
-              to='https://twitter.com/docir_lilian'
+              href='https://twitter.com/docir_lilian'
               target='_blank'
               aria-label='Twitter'
             >
               <i class='fab fa-twitter' />
-            </Link>
-            <Link
+            </a>
+            <a
               class='social-icon-link twitter'
-              to='/'
+              href='https://www.linkedin.com/in/liliane-uwase-907830163/'
               target='_blank'
               aria-label='LinkedIn'
             >
               <i class='fab fa-linkedin' />
-            </Link>
+            </a>
           </div>
         </div>
       </section>
