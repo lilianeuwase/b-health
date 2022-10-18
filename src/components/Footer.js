@@ -14,11 +14,13 @@ function Footer() {
         <p className='footer-subscription-text'>
           You can email us at any time for suggestions/concerns.
         </p>
+        <a href='mailto:alfagason@gmail.com' >
         <div className='input-areas'>
           <form>
             <Button buttonStyle='btn--outline'>Email Us</Button>
           </form>
         </div>
+        </a>
       </section>
       <div class='footer-links'>
         <div className='footer-link-wrapper'>
