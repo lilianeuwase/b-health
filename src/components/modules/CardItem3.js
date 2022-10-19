@@ -24,7 +24,7 @@ export default function CardItem3(props3) {
         </Typography>
       </CardContent>
       <CardActions>
-        <a href={props3.src} target="_blank">
+        <a href={props3.src} target="_blank" rel="noreferrer">
           <Button size="small">Learn More</Button>
         </a>
       </CardActions>

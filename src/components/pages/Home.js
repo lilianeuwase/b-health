@@ -1,6 +1,5 @@
 import React from 'react';
 import '../../App.css';
-import Services from './Services';
 import Body from '../Body';
 import Hero from '../Hero';
 import { How } from '../How';

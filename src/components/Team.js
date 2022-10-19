@@ -16,7 +16,7 @@ export const Team = () => {
             </div>
             <div class="column has-text-centered ">
               <figure class="image is-inline-block is-128x128 ">
-                  <img className="is-center " src={require('../images/Liliane1.png')}/>
+                  <img className="is-center" alt="Liliane" src={require('../images/Liliane1.png')}/>
               </figure>
               <p>
                   <strong> Liliane Uwase</strong>
