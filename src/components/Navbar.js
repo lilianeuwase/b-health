@@ -65,12 +65,13 @@ function Navbar() {
             </li>
 
             <li>
-              <Link
-                to='http://bloodloof.herokuapp.com/'
+              <a
+                href='http://bloodloof.herokuapp.com/'
                 className='nav-links-mobile'
                 onClick={closePhoneMenu}
+                rel="noreferrer" target="_blank"
               >
-              </Link>
+              </a>
             </li>
           </ul>
           {button && <Button buttonStyle='btn--outline'>DONATE BLOOD</Button>}

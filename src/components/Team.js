@@ -11,7 +11,7 @@ export const Team = () => {
           <div class="columns">
             <div id='how' className='text-center how'>
               <div className='col-md-10 col-md-offset-1 section-title'>
-                <h2>MEET THE TEAM</h2>
+                <h2>MEET THE TEAM EMAIL US</h2>
               </div>
             </div>
             <div class="column has-text-centered ">
