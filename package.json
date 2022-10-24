@@ -1,8 +1,8 @@
 {
-    "homepage": "https://lilianeuwase.github.io/b-health",
+    "homepage": "https://lilianeuwase.github.io/b-health/",
     "name": "b-health",
     "version": "0.1.0",
-    "private": false,
+    "private": true,
     "dependencies": {
         "@emotion/react": "^11.10.4",
         "@emotion/styled": "^11.10.4",
