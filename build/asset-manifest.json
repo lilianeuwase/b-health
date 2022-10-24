@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3f485f0b.css",
+    "main.js": "/static/js/main.a5b19251.js",
+    "static/media/Primary.jpeg": "/static/media/Primary.27316bb1daa34a90f5e5.jpeg",
+    "static/media/img-2.jpg": "/static/media/img-2.bb238fc1bea8ae2474d2.jpg",
+    "static/media/Patricia.jpeg": "/static/media/Patricia.9f0f6cd311e8e840b405.jpeg",
+    "static/media/Psychiatristry.jpeg": "/static/media/Psychiatristry.1198da0c0f86e99f0883.jpeg",
+    "static/media/Noella.webp": "/static/media/Noella.854e8a32cc6181d5d608.webp",
+    "static/media/Luce1.png": "/static/media/Luce1.a9a59b48e63904bd9ed9.png",
+    "static/media/Lisa1.png": "/static/media/Lisa1.4f69b7ee0428660cc6ba.png",
+    "static/media/Witty1.png": "/static/media/Witty1.01bb49a978dbc5972886.png",
+    "static/media/Nicole.jpeg": "/static/media/Nicole.18e31f9e2eccf317f06c.jpeg",
+    "static/media/Liliane1.png": "/static/media/Liliane1.8b6cd24e74f81f543246.png",
+    "static/media/skin.webp": "/static/media/skin.e4a1a35629be5848ee25.webp",
+    "static/media/Daniel.jpeg": "/static/media/Daniel.cc24217380f634aeb594.jpeg",
+    "static/media/Arlene.jpeg": "/static/media/Arlene.f59bdc5d7cc9777b3969.jpeg",
+    "static/media/Dentistry.jpeg": "/static/media/Dentistry.9b1ba45867d5ea6fc0df.jpeg",
+    "static/media/Gynecologist.jpeg": "/static/media/Gynecologist.b57066a22b02473bdc61.jpeg",
+    "static/media/Dermatology.webp": "/static/media/Dermatology.78b59ac33b9460e2b821.webp",
+    "static/media/Tharci.jpeg": "/static/media/Tharci.14202c45f0e840bf5e8a.jpeg",
+    "static/media/Simon.jpeg": "/static/media/Simon.db995c7b77c203502070.jpeg",
+    "static/media/Andre.jpeg": "/static/media/Andre.8531a487a196bfb28efb.jpeg",
+    "static/media/Ornella.jpeg": "/static/media/Ornella.158c555d31fa00c88eab.jpeg",
+    "static/media/Jean.webp": "/static/media/Jean.35918b995ce6369024b6.webp",
+    "static/media/water1.jpeg": "/static/media/water1.7d44f8933fae36d2d2fe.jpeg",
+    "static/media/Nat.jpeg": "/static/media/Nat.3f74375db864d75cf0b9.jpeg",
+    "index.html": "/index.html",
+    "main.3f485f0b.css.map": "/static/css/main.3f485f0b.css.map",
+    "main.a5b19251.js.map": "/static/js/main.a5b19251.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f485f0b.css",
+    "static/js/main.a5b19251.js"
+  ]
+}
