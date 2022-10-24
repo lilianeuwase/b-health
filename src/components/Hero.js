@@ -11,12 +11,12 @@ function Hero() {
           <div class="tile is-parent">
             <div class="tile is-child">
                 <p class="title text1">THE FUTURE OF</p>
-                <img alt='the future' className='photo1' src='images/bw-p1.jpeg' />
+                <img alt='the future' className='photo1' src={require('../images/bw-p1.jpeg')} />
               </div>
           </div>
           <div class="tile is-parent">
             <div class="tile is-child">
-              <img alt='e-health' className='photo2' src='images/bw-p2.jpeg' />
+              <img alt='e-health' className='photo2' src={require('../images/bw-p2.jpeg')} />
               <p class="title text1">E-HEALTH</p>
             </div>
           </div>

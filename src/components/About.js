@@ -10,7 +10,7 @@ export const About = (props) => {
           <div className="row">
             <div className="col-xs-12 col-md-6">
               {" "}
-              <img src="../images/bw1.png" className="img-responsive" alt="" />{" "}
+              <img src={require("../images/bw1.png")} className="img-responsive" alt="" />{" "}
             </div>
             <div className="col-xs-12 col-md-6">
               <div className="about-text">
