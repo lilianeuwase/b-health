@@ -44,7 +44,7 @@ export const CardItem2 = React.memo(function GalaxyCard(props2) {
   const mediaStyles = useCoverCardMediaStyles({ bgPosition: 'top' });
   const styles = useStyles();
   return (
-    <>
+    <div>
       <NoSsr>
         <GoogleFontLoader
           fonts={[
@@ -68,7 +68,7 @@ export const CardItem2 = React.memo(function GalaxyCard(props2) {
           </Info>
         </Box>
       </Card>
-    </>
+    </div>
   );
 });
 export default CardItem2;

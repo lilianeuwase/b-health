@@ -5,6 +5,9 @@ import '../Services.css';
 import './Primary.css';
 import './Dentist.css';
 
+import andre from '../../../images/Andre.jpeg';
+import noella from '../../../images/Noella.webp';
+
 function Psy() {
   return (
     <div class="card">
@@ -22,7 +25,7 @@ function Psy() {
                                     subtitle='+250788776656 Alfagason7@gmail.com'
                                     title='Andre Ndayambaje'
                                     caption='Rwanda'
-                                    photo ={require('../../../images/Andre.jpeg')}
+                                    photo ={andre}
                                 />
                             </article>
                         </div>
@@ -32,7 +35,7 @@ function Psy() {
                                     subtitle='+250788776657 Alfagason8@gmail.com'
                                     title='Noella Ishimwe'
                                     caption='Rwanda'
-                                    photo ={require('../../../images/Noella.webp')}
+                                    photo ={noella}
                                 />
                             </article>
                         </div>

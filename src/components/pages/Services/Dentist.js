@@ -5,6 +5,8 @@ import '../Services.css';
 import './Primary.css';
 import './Dentist.css';
 
+import tharci from '../../../images/Tharci.jpeg';
+
 function Dentist() {
   return (
     <div class="card">
@@ -22,7 +24,7 @@ function Dentist() {
                       subtitle='+250788776651 Alfagason5@gmail.com'
                       title='Dr. Tharcisse Habimana'
                       caption='Rwanda'
-                      photo ={require('../../../images/Tharci.jpeg')}
+                      photo ={tharci}
                     />
                   </article>
                 </div>

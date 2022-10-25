@@ -1,6 +1,7 @@
 import "./Team.css";
 import "./How.css";
 import "./About.css";
+import React  from 'react';
 
 
 export const How = (props) => {

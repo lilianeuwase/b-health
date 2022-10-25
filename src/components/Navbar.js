@@ -25,7 +25,7 @@ function Navbar() {
   window.addEventListener('resize', showButton);
 
   return (
-    <>
+    
       <nav className='navbar'>
         <div className='navbar-container'>
           <Link to='/' className='navbar-logo' onClick={closePhoneMenu}>
@@ -77,7 +77,7 @@ function Navbar() {
           {button && <Button buttonStyle='btn--outline'>DONATE BLOOD</Button>}
         </div>
       </nav>
-    </>
+    
   );
 }
 

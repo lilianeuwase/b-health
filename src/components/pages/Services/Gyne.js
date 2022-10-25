@@ -5,6 +5,8 @@ import '../Services.css';
 import './Primary.css';
 import './Dentist.css';
 
+import nico from '../../../images/Nicole.jpeg';
+
 function Gyne() {
   return (
     <div class="card">
@@ -22,7 +24,7 @@ function Gyne() {
                     subtitle='+250788776659 Alfagason9@gmail.com'
                     title='Dr. Nicole Kanyana'
                     caption='Rwanda'
-                    photo ={require('../../../images/Nicole.jpeg')}
+                    photo ={nico}
                   />
                   </article>
                 </div>

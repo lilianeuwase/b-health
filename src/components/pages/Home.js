@@ -17,14 +17,14 @@ function Home() {
   }, []);
 
   return (
-    <>
+    <div>
       <Body />
       <Hero />
       <How data={landingPageData.How}/>
       <About data={landingPageData.About}/>
       <Team />
       
-    </>
+    </div>
   );
 }
 

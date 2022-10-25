@@ -3,13 +3,16 @@ import CardItem3 from './CardItem3';
 import '../pages/Services.css';
 import '../pages/services/Primary.css';
 
+import skin from '../../images/skin.webp';
+import water from '../../images/water1.jpeg';
+
 function Leftbar() {
   return (
     <div class='left-bar'>
       <div class="tile is-parent left-bar is-vertical">
         <div class="tile is-child ">
           <CardItem3
-            image = {require('../../images/skin.webp')}
+            image = {skin}
             alt='My Skin'
             title = 'A Guide to Taking Care of Your Skin'
             text = 'You may suspect you have dry, oily, or sensitive skin, but do you really know your skin type? ...'
@@ -18,7 +21,7 @@ function Leftbar() {
         </div>
         <div class="tile is-child">
           <CardItem3
-              image = {require('../../images/water1.jpeg')}
+              image = {water}
               alt='Water'
               title = 'Water and Healthier Drinks'
               text = 'Getting enough water every day is important for your health ...'

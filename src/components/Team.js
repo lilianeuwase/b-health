@@ -1,7 +1,11 @@
 import "./Team.css";
 import "./How.css";
+import React  from 'react';
 
-
+import lili from '../images/Liliane1.png';
+import lisa from '../images/Lisa1.png';
+import luce from '../images/Luce1.png';
+import witty from '../images/Witty1.png';
 
 
 export const Team = () => {
@@ -16,7 +20,7 @@ export const Team = () => {
             </div>
             <div class="column has-text-centered ">
               <figure class="image is-inline-block is-128x128 ">
-                  <img className="is-center" alt="Liliane" src={require('../images/Liliane1.png')}/>
+                  <img className="is-center" alt="Liliane" src={lili}/>
               </figure>
               <p>
                   <strong> Liliane Uwase</strong>
@@ -26,7 +30,7 @@ export const Team = () => {
             </div>
             <div class="column has-text-centered ">
               <figure class="image is-inline-block is-128x128 ">
-                  <img alt='e-health' className='is-center' src={require('../images/Lisa1.png')} />
+                  <img alt='e-health' className='is-center' src={lisa} />
               </figure>
               <p>
                   <strong> Lisa Musanubukeye</strong>
@@ -36,7 +40,7 @@ export const Team = () => {
             </div>
             <div class="column has-text-centered ">
               <figure class="image is-inline-block is-128x128 ">
-                  <img alt='e-health' className='is-center' src={require('../images/Luce1.png')} />
+                  <img alt='e-health' className='is-center' src={luce} />
               </figure>
               <p>
                   <strong> Luce Mugire </strong>
@@ -46,7 +50,7 @@ export const Team = () => {
             </div>
             <div class="column has-text-centered ">
               <figure class="image is-inline-block is-128x128 ">
-                  <img alt='e-health' className='is-center' src={require('../images/Witty1.png')} />
+                  <img alt='e-health' className='is-center' src={witty} />
               </figure>
               <p>
                   <strong> Witty Uwera </strong>

@@ -5,6 +5,8 @@ import '../Services.css';
 import './Primary.css';
 import './Dentist.css';
 
+import patri from '../../../images/Patricia.jpeg';
+
 function Derma() {
   return (
     <div class="card">
@@ -22,7 +24,7 @@ function Derma() {
                     subtitle='+250788776659 Alfagason6@gmail.com'
                     title='Dr. Patricia Oriza'
                     caption='Kenya'
-                    photo ={require('../../../images/Patricia.jpeg')}
+                    photo ={patri}
                   />
                   </article>
                 </div>

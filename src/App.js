@@ -19,7 +19,7 @@ import Psy from './components/pages/services/Psy';
 function App() {
 
   return (
-    <>
+    
       <BrowserRouter>
             <Navbar />
             <Routes>
@@ -34,7 +34,7 @@ function App() {
             </Routes> 
             <Footer/>
         </BrowserRouter>
-    </>
+    
   );
 }
 
