@@ -1,0 +1,11 @@
+.left-bar1 {
+    /* background-color: #f1f1f1;
+    height: 350px;
+    overflow: auto;
+    margin: 20px;
+    text-align: justify;
+    padding: 10px; */
+    max-height: 400px;
+    overflow-y: scroll;
+    background-color: #fff;
+}
